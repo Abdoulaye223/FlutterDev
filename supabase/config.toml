@@ -1,0 +1,13 @@
+project_id = "sfsoslyuhimnjoehsjja"
+
+[functions.delete-account]
+verify_jwt = false
+
+[functions.send-welcome-email]
+verify_jwt = false
+
+[functions.send-comment-notification]
+verify_jwt = false
+
+[functions.send-upvote-notification]
+verify_jwt = false
